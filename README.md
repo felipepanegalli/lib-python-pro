@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/felipepanegalli/lib-python-pro.svg?branch=master)](https://travis-ci.org/felipepanegalli/lib-python-pro)
+[![Updates](https://pyup.io/repos/github/felipepanegalli/lib-python-pro/shield.svg)](https://pyup.io/repos/github/felipepanegalli/lib-python-pro/)
+[![Python 3](https://pyup.io/repos/github/felipepanegalli/lib-python-pro/python-3-shield.svg)](https://pyup.io/repos/github/felipepanegalli/lib-python-pro/)
 
 Para instalar:
 ```console
